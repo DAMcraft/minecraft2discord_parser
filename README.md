@@ -6,3 +6,6 @@ This code is copied out from my ServerSeeker projects, so don't complain that it
 
 (Small ad for myself): **ServerSeeker** is a public Minecraft servers scanner that scans the entire internet at blazingly fast speeds. If you want to try it out, feel free to join:
 https://discord.gg/jVyHyYbqdS
+
+
+You are free to use this in whatever way you want, however I'd really appreciate it if you starred this repo!
