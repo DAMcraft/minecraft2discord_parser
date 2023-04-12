@@ -17,7 +17,7 @@ def to_ansi(msg: str) -> str:
                 ansi_msg += f"\u001b[{escape_codes[symbol]};{current_color}m"
                 cursor_pos += 1
             elif symbol in ["k", "o", "§"]:
-                pass  # Ignore these
+                # Ignore these
                 cursor_pos += 1
             else:
                 ansi_msg += "§"
